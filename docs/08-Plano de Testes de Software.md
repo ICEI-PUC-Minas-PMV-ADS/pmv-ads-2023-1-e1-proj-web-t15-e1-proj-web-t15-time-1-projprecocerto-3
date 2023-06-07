@@ -30,7 +30,7 @@ Os testes funcionais a serem realizados são descritos a seguir:
 * Resultado esperado: O usuário poderá realizar esses procedimentos e avançar para a finalização da compra, sem apresentar erros.
 
 
-## CT-3 - O sistema deve permitir que os usuários façam login em suas contas.	
+## CT-2 - O sistema deve permitir que os usuários façam login em suas contas.	
 
 * Requisitos associados: RF-01
 
