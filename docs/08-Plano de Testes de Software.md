@@ -49,3 +49,11 @@ Os testes funcionais a serem realizados são descritos a seguir:
 
 * Resultado esperado: O usuário poderá acessar o sistema com sua conta, seu login e senha criados no momento do cadastro.
 
+Tela de Cadastro:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto-3/assets/128651687/dbb621e0-1ef0-4745-aec4-1b139c3c0351)
+
+Tela de Login:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto-3/assets/128651687/b36993a9-990c-4414-afaa-250348d8124e)
+
+
