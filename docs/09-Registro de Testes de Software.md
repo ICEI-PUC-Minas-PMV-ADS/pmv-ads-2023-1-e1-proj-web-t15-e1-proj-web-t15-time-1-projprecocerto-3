@@ -25,3 +25,17 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto/assets/129537841/2c8cfe66-8ade-45de-87e4-46a1d8053d0d)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto/assets/129537841/48c9e9f1-69a8-4968-9a84-b81649e67966)
+
+
+# CT-1 - Adicionar ao carrinho, atualizar quantidade e remover produtos
+
+* Resultado obtido: Passou no teste
+
+* Testado por: Tatiana
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto-3/assets/128651687/dbb621e0-1ef0-4745-aec4-1b139c3c0351)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto-3/assets/128651687/b36993a9-990c-4414-afaa-250348d8124e)
+
+
+
