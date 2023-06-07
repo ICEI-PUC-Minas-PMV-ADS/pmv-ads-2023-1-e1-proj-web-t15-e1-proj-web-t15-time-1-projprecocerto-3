@@ -27,7 +27,7 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto/assets/129537841/48c9e9f1-69a8-4968-9a84-b81649e67966)
 
 
-# CT-1 - Adicionar ao carrinho, atualizar quantidade e remover produtos
+CT-2 - O sistema deve permitir que os usuários façam login em suas contas.
 
 * Resultado obtido: Passou no teste
 
