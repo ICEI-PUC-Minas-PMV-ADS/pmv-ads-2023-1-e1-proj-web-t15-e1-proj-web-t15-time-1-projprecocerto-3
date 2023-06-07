@@ -35,6 +35,8 @@ CT-2 - O sistema deve permitir que os usuários façam login em suas contas.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto-3/assets/128651687/dbb621e0-1ef0-4745-aec4-1b139c3c0351)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto-3/assets/128651687/53c48e23-0f46-42bf-9e61-8e8b4db655c7)
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto-3/assets/128651687/b36993a9-990c-4414-afaa-250348d8124e)
 
 
