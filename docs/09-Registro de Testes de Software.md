@@ -26,8 +26,7 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto/assets/129537841/48c9e9f1-69a8-4968-9a84-b81649e67966)
 
-
-CT-2 - O sistema deve permitir que os usuários façam login em suas contas.
+# CT-2 - O sistema deve permitir que os usuários façam login em suas contas.
 
 * Resultado obtido: Passou no teste
 
@@ -38,6 +37,5 @@ CT-2 - O sistema deve permitir que os usuários façam login em suas contas.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto-3/assets/128651687/53c48e23-0f46-42bf-9e61-8e8b4db655c7)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t15-e1-proj-web-t15-time-1-projprecocerto-3/assets/128651687/b36993a9-990c-4414-afaa-250348d8124e)
-
 
 
